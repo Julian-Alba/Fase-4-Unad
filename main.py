@@ -2,7 +2,7 @@
 # tiene casos buenos y malos pa probar las excepciones
 # hecho por: Boris Julian Mateus Alba
 
-from cliente import Cliente, ClienteInvalidoError
+from Cliente import Cliente, ClienteInvalidoError
 from servicios import ReservaSala, AlquilerEquipo, AsesoriaEspecializada, ServicioInvalidoError
 from reserva import Reserva, ReservaError
 from logger import registrar_info, registrar_error, registrar_advertencia

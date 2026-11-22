@@ -1,0 +1,14 @@
+[2026-11-22 15:41:14] [INFO] === Sistema Software FJ iniciado ===
+[2026-11-22 15:41:14] [INFO] Cliente creado: Carlos Mendoza
+[2026-11-22 15:41:14] [ERROR] ERROR - Email invalido al crear cliente C002 | Detalle: El email 'emailmalformado' no es valido
+[2026-11-22 15:41:14] [ADVERTENCIA] Operacion 2 finalizada (cliente invalido esperado)
+[2026-11-22 15:41:14] [ERROR] ERROR - Nombre invalido al crear cliente C003 | Detalle: El nombre debe tener al menos 3 caracteres
+[2026-11-22 15:41:14] [INFO] Servicio creado: Sala de Conferencias A
+[2026-11-22 15:41:14] [ERROR] ERROR - Precio invalido en servicio S002 | Detalle: El precio base no puede ser negativo o cero
+[2026-11-22 15:41:14] [INFO] Reserva R001 procesada. Costo: $96,390.00
+[2026-11-22 15:41:14] [ERROR] ERROR - Horas invalidas en reserva R002 | Detalle: Error al confirmar reserva R002
+[2026-11-22 15:41:14] [ERROR] ERROR - Intento de procesar sin confirmar - R003 | Detalle: La reserva tiene que estar confirmada pa procesarla. Estado actual: 'pendiente'
+[2026-11-22 15:41:14] [INFO] Reserva R004 cancelada correctamente
+[2026-11-22 15:41:14] [ERROR] ERROR - Limite de horas superado en reserva R005 | Detalle: Error al confirmar reserva R005
+[2026-11-22 15:41:14] [INFO] Operacion 10 finalizada
+[2026-11-22 15:41:14] [INFO] === Sistema Software FJ finalizado ===
